@@ -12,6 +12,6 @@
 
 ------
 
-## --->  [点我发起新举报]([url](https://github.com/ScaxeTeam/server-report/issues/new/choose))  <---
+## ---> [点我发起新举报](https://github.com/ScaxeTeam/server-report/issues/new/choose)   <---
 
 注：由于本举报途径在github上搭建，您必须拥有github账号才可以举报
