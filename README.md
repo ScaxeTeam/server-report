@@ -16,4 +16,6 @@
 
 ## ---> [点我开始申请](https://github.com/ScaxeTeam/server-report/issues/new/choose)   <---
 
+## [添加图片教程](https://github.com/ScaxeTeam/server-report/issues/25)
+
 注：由于本举报途径在github上搭建，您必须拥有github账号才可以举报
